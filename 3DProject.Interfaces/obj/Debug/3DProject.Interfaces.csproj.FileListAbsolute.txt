@@ -1,0 +1,6 @@
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\bin\Debug\3DProject.Interfaces.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\bin\Debug\3DProject.Interfaces.pdb
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\obj\Debug\3DProject.Interfaces.csprojAssemblyReference.cache
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\obj\Debug\3DProject.Interfaces.csproj.CoreCompileInputs.cache
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\obj\Debug\3DProject.Interfaces.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Interfaces\obj\Debug\3DProject.Interfaces.pdb

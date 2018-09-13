@@ -1,0 +1,8 @@
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\bin\Debug\3DProject.Classes.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\bin\Debug\3DProject.Classes.pdb
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\bin\Debug\3DProject.Interfaces.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\bin\Debug\3DProject.Interfaces.pdb
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\obj\Debug\3DProject.Classes1.csproj.CoreCompileInputs.cache
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\obj\Debug\3DProject.Classes1.csproj.CopyComplete
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\obj\Debug\3DProject.Classes.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Classes\obj\Debug\3DProject.Classes.pdb

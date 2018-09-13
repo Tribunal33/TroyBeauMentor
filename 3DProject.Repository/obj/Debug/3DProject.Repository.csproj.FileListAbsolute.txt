@@ -1,0 +1,9 @@
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\obj\Debug\3DProject.Repository.csprojAssemblyReference.cache
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\obj\Debug\3DProject.Repository.csproj.CoreCompileInputs.cache
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\bin\Debug\3DProject.Repository.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\bin\Debug\3DProject.Repository.pdb
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\bin\Debug\3DProject.Interfaces.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\bin\Debug\3DProject.Interfaces.pdb
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\obj\Debug\3DProject.Repository.csproj.CopyComplete
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\obj\Debug\3DProject.Repository.dll
+d:\Dev\Mentor\TroyAndBeau\3DProject.Repository\obj\Debug\3DProject.Repository.pdb
